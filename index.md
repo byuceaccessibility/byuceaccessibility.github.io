@@ -20,7 +20,7 @@ The **Report Generator** is the program we use to automate about 40% of an acces
         "BYUOnlineCreds":  {
                            "BaseUri":  "https://byu.instructure.com",
                            "Token":  "<YOUR-USER-TOKEN-GOES-HERE>"
-                           },
+                           }
         ```
     - Go to `Canvas API Token` if you are unsure about how to get a Canvas API token for each of the BYU Canvas domains.
 
