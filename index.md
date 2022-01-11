@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# Report Generator
 
-You can use the [editor on GitHub](https://github.com/byuceaccessibility/byuceaccessibility.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![Accessibility Panel User Interface](assets/images/GUI.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Introduction
 
-### Markdown
+The **Report Generator** is the program we use to automate about 40% of an accessibility audit. After being given correct filepaths and canvas API tokens, this program has logic to scan HTML for many possible accessibility issues we often find in courses. This markdown will give a description of each file used in the process, pseudo code for each file, as well as pseudo code for the whole report generation.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How to install the Accessibility Panel on a work computer
 
-```markdown
-Syntax highlighted code block
+1.	Go to `M:\DESIGNER\Content Editors·ELTA\Accessibility Assistants\A11y Panel`, open the `AccessibilitySetup` folder, and run the `RunSetUp.exe` file.
+     - Make sure to enter Y for everything. You can enter A for yes to all.
+2.  After the `RunSetUp.exe` has finished running, you will find a new shortcut on your screen titled `Accessibility Panel` and a new folder titled `AccessibilityTools`. Everything the `RunSetUp.exe` downloaded is contained on that folder on your desktop.
+3.	To run the panel click on the new shortcut titled `Accessibility Panel`
+    - Running the panel using the shortcut will automatically check for updates upon starting.
+4.	Once the panel is running you need to setup the options. Navigate to the `Options` tab in the top right of the window. This will open a text editor we can use to input required values.
+    - Many of values should already be filled in. In order for the panel to generate a report, you will need to enter in your user specific token for each BYU Canvas domain.
+    - For example
+      - ```json
+        "BYUOnlineCreds":  {
+                           "BaseUri":  "https://byu.instructure.com",
+                           "Token":  "<YOUR-USER-TOKEN-GOES-HERE>"
+                           },
+        ```
+    - Go to `Canvas API Token` if you are unsure about how to get a Canvas API token for each of the BYU Canvas domains.
 
-# Header 1
-## Header 2
-### Header 3
+### How to find the Course ID
 
-- Bulleted
-- List
+The course ID is found in the URL after the domain and the word "courses" (example: [https://byuismastercourses.instructure.com/courses/**1335**](https://byuismastercourses.instructure.com/courses/1335)).
 
-1. Numbered
-2. List
+To generate report, place the course ID (**1335** for the example) in the form field and select "Generate Report". Remember to select a domain for the course chosen. **A report will not be generated unless a domain is selected.**
 
-**Bold** and _Italic_ and `Code` text
+### How to find the Correct Directory Path
 
-[Link](url) and ![Image](src)
-```
+The panel can make an accessibility report for a folder of HTML files. To create this report you would find the file path to the folder containing the HTML files, place that in the form field and select "Generate Report".
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Quick Tips
 
-### Jekyll Themes
+#### Opening the Report directory in your folder viewer
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/byuceaccessibility/byuceaccessibility.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The Report folder is in a sub folder of the main `AccessibilityTools` folder, specifically `.../AccessibilityTools/ReportGenerators-master/Reports`. A quick way to open this folder is to click on the `Report List` heading above the reports on the Accessibility Panel's user interface.
 
-### Support or Contact
+### Canvas API Token
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Before you can create any reports for a canvas course you need an access token. 
+1.	Go to the canvas domain you want a token for (such as https://byu.instructure.com/).
+2.	Go to `Account` (top left corner).
+3.	Go to `Settings`.
+4.	Under section called `Approved Integrations` click `New Access Token`.
+5.	Set an expiration date or leave it blank for no expiration. Name it whatever you want.
+6.	Copy paste generated token into the correct field in the options tab of panel.
+7.	If you lose it the token you cannot get it back. Just delete it and create a new one.
