@@ -23,7 +23,7 @@ email: byuceaccessibility@byu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Accessibility Help page for BYU CE employees.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://byuceaccessibility.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  byuceaccessibility
 
 # Build settings
