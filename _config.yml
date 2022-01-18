@@ -35,8 +35,8 @@ plugins:
 
 # Navigation
 narbar-links:
-  About: about.md
-  Accessibility Panel: AccessibilityPanel.md
+  About: 'https://byuceaccessibility.github.io/about/'
+  Accessibility Panel: 'https://byuceaccessibility.github.io/AccessibilityPanel/'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
