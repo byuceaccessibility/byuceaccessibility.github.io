@@ -33,6 +33,11 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+# Navigation
+narbar-links:
+  About: about.md
+  Accessibility Panel: AccessibilityPanel.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
