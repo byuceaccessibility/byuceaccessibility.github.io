@@ -4,8 +4,6 @@ title: Accessibility Panel
 permalink: /AccessibilityPanel/
 ---
 
-# Accessibility Panel
-
 ![Accessibility Panel User Interface](assets/images/GUI.png)
 
 ## Introduction
