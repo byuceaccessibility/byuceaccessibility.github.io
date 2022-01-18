@@ -27,7 +27,9 @@ url: "https://byuceaccessibility.github.io" # the base hostname & protocol for y
 github_username:  byuceaccessibility
 
 # Build settings
-theme: beautiful-jekyll-theme
+#theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll
+markdown: kramdown
 plugins:
   - jekyll-feed
 
