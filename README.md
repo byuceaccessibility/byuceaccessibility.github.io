@@ -50,6 +50,6 @@ Under `Helpful Links` you will find more code below like `    - Color: "help/col
     - LINK-NAME: "help/YOUR-PAGE-TITLE"
 ```
 
-## Update repository
+## Update Git Repository
 
 After adding your help page to the file structure and creating a link in the webpage's basic navigation, we should be update the repository! Doing this depends greatly depends on the environment in which you are working in, but basically we are aiming to push our commited file additions to the repositories origin of the main branch. After doing that the repository will build the new version of the website and you should see your results live!
