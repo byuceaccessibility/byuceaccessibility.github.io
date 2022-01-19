@@ -5,12 +5,10 @@
 layout: home
 title: BYU CE Accessibility
 subtitle: Accessibility Help page for BYU CE employees.
-cover-img: "assets/images/computer.jpg"
+cover-img: "assets/img/computer.jpg"
 ---
 
 # Accessibility
 
 [Accessibility Panel](AccessibilityPanel.md):
     How to use the Accessibility Panel.
-
-# Help Links

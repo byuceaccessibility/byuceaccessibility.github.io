@@ -5,7 +5,7 @@ permalink: /AccessibilityPanel/
 ---
 
 {:refdef: style="text-align: center;"}
-![Accessibility Panel User Interface](assets/images/GUI.png)
+![Accessibility Panel User Interface](assets/img/GUI.png)
 {: refdef}
 
 ## Introduction

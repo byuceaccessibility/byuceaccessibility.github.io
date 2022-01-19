@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: BYU CE Accessibility
+author: BYU CE Quality Assurance
 email: byuceaccessibility@byu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Accessibility Help page for BYU CE employees.
@@ -34,9 +35,17 @@ plugins:
   - jekyll-feed
 
 # Navigation
-narbar-links:
+navbar-links:
   About: "about"
   Accessibility Panel: "AccessibilityPanel"
+  Helpful Links:
+    - Color:
+
+# Footer
+social-network-links:
+  email: "byuceaccessibility@byu.edu"
+
+url-pretty: "byuceaccessibility.github.io"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -46,12 +55,12 @@ narbar-links:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
+  - Gemfile
+  - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
