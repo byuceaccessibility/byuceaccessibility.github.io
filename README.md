@@ -20,7 +20,7 @@ Copy the text in the next paragraph to your new files contents. This will be the
 ---
 layout: page
 title: YOUR-PAGE-TITLE
-permalink: /help/YOUR-PAGE-TITLE
+permalink: /help/YOUR-PAGE-TITLE/
 ---
 
 Your page content...
@@ -36,8 +36,8 @@ Open `_config.yml` and find the portion of code in block below.
 ```yml
 # Navigation
 navbar-links:
-  About: "about"
-  Accessibility Panel: "AccessibilityPanel"
+  About: "/about/"
+  Accessibility Panel: "/AccessibilityPanel/"
   Helpful Links:
 ```
 Under `Helpful Links` you will find more code below like `    - Color: "help/color"`. We will add the data of the new page is a simliar format. Here is an example to help.
@@ -47,7 +47,7 @@ Under `Helpful Links` you will find more code below like `    - Color: "help/col
 ...
 
   Helpful Links:
-    - LINK-NAME: "help/YOUR-PAGE-TITLE"
+    - LINK-NAME: "/help/YOUR-PAGE-TITLE/"
 ```
 
 ## Update Git Repository
