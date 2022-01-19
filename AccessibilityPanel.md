@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Accessibility Panel
-permalink: /AccessibilityPanel/
+permalink: /AccessibilityPanel
 ---
 
 {:refdef: style="text-align: center;"}

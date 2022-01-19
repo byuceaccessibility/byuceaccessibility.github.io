@@ -39,7 +39,7 @@ navbar-links:
   About: "about"
   Accessibility Panel: "AccessibilityPanel"
   Helpful Links:
-    - Color:
+    - Color: "help/color"
 
 # Footer
 social-network-links:
