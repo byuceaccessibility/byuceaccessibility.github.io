@@ -36,10 +36,10 @@ plugins:
 
 # Navigation
 navbar-links:
-  About: "about"
-  Accessibility Panel: "AccessibilityPanel"
+  About: "/about/"
+  Accessibility Panel: "/AccessibilityPanel/"
   Helpful Links:
-    - Color: "help/color"
+    - Color: "/help/color/"
 
 # Footer
 social-network-links:
