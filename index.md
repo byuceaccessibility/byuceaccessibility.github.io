@@ -12,3 +12,7 @@ cover-img: "assets/img/computer.jpg"
 
 [Accessibility Panel](AccessibilityPanel.md):
     How to use the Accessibility Panel.
+# Helpful Links
+
+Add more helpful links by adding to this website's git repository at [byuceaccessibility.github.io](https://github.com/byuceaccessibility/byuceaccessibility.github.io).
+
