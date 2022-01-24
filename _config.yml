@@ -37,13 +37,14 @@ plugins:
 # Navigation
 navbar-links:
   About: "/about/"
+  QA Corner:
+    - Check current progress: "https://byu.app.box.com/file/854963586136?s=jnyv07ojiqb234l3ywxxhs7r7m5nk2nf"
+    - 
   Accessibility:
-#    - Accessibiliy Matters:
-#    -
+    - Color: "/accessibility/color/"
   Accessibility Panel: "/AccessibilityPanel/"
   Helpful Links:
     - Tools: "/help/tools/"
-    - Color: "/help/color/"
 
 # Footer
 social-network-links:

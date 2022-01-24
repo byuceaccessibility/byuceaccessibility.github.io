@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Color
-permalink: /help/color/
+permalink: /accessibility/color/
 ---
 
 Put content here.
