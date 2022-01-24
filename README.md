@@ -21,6 +21,7 @@ Copy the text in the next paragraph to your new files contents. This will be the
 layout: page
 title: YOUR-PAGE-TITLE
 permalink: /help/YOUR-PAGE-TITLE/
+# The Title of this page will be the first heading at a level one
 ---
 
 Your page content...
