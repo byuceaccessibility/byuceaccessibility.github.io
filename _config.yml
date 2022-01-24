@@ -33,7 +33,6 @@ remote_theme: daattali/beautiful-jekyll
 markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-target-blank
 
 # Navigation
 navbar-links:
