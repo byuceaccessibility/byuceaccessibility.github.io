@@ -18,5 +18,5 @@ cover-img: "assets/img/computer.jpg"
 
 # Helpful Links
 
-Add more helpful links by adding to this website's git repository at [byuceaccessibility.github.io](https://github.com/byuceaccessibility/byuceaccessibility.github.io){: targe=_blank}.
+Add more helpful links by adding to this website's git repository at [byuceaccessibility.github.io](https://github.com/byuceaccessibility/byuceaccessibility.github.io){: target=_blank}.
 
