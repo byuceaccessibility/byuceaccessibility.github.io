@@ -18,5 +18,8 @@ cover-img: "assets/img/computer.jpg"
 
 # Helpful Links
 
+[Canvas Accessibility Tools](help/canvas-accessibility-tools.md)
+:   Help tools to check your accessibility while developing your course in Canvas.
+
 Add more helpful links by adding to this website's git repository at [byuceaccessibility.github.io](https://github.com/byuceaccessibility/byuceaccessibility.github.io){: target="_blank"}.
 
