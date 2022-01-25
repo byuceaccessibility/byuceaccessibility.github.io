@@ -4,7 +4,7 @@ title: Accessibility Tools
 permalink: /help/tools/
 ---
 
-## cidilabs - UDOIT Cloud
+## Cidi Labs - UDOIT Cloud
 
 {:refdef: style="text-align: center;"}
 ![UDOIT logo](../assets/img/udoit_logo.png)
@@ -18,11 +18,10 @@ permalink: /help/tools/
 <iframe style="absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/gXA4vD7wuws" allowfullscreen></iframe>
 </div>
 
-## cidilabs - Design Tools
+## Cidi Labs - Design Tools
 
->
->
->
+> "Here's a tutorial video highlighting the many accessibility features in Design Tools that helps course creators improve content accessibility."
+> [Cidi labs Support Center](https://support.cidilabs.com/support/solutions/articles/14000054564-how-does-design-tools-help-with-accessibility-of-content-{: target="_blank"})
 
 <div style="position: relative; width: 100%; height: 100%; padding-bottom: 56.25%; overflow: hidden;">
 <iframe style="absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/bymc08_O7o4" allowfullscreen></iframe>
@@ -35,4 +34,4 @@ If your combination does not meet the guidelines, we find the closest accessible
 We modify the lightness value only, in order to stay as true to the original color as possible."
 > - accessibile-colors.com
 
-[Accessible Colors](https://accessible-colors.com)
+[Accessible Colors](https://accessible-colors.com){: target="_blank"}
