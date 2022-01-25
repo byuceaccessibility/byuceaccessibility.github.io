@@ -6,7 +6,9 @@ permalink: /help/tools/
 
 ## UDOIT Cloud
 
-![UDOIT logo](../assets/img/udoit_logo.png){: style="text-align: center;"}
+{:refdef: style="text-align: center;"}
+![UDOIT logo](../assets/img/udoit_logo.png)
+{: refdef}
 
 > "UDOIT Cloud scans your Canvas courses, identifies errors, and provides guidance to improve accessibility with ease."
 >
