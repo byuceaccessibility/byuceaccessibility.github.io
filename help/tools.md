@@ -6,6 +6,8 @@ permalink: /help/tools/
 
 ## UDOIT Cloud
 
+![UDOIT logo](../assets/img/udoit_logo.png){: style="text-align: center;"}
+
 > "UDOIT Cloud scans your Canvas courses, identifies errors, and provides guidance to improve accessibility with ease."
 >
 > [UDOIT Cloud Accessibility Tool - Cidi Labs](https://cidilabs.com/landing/udoit-accessibility-tool/){: target="_blank"}
