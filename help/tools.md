@@ -14,14 +14,14 @@ permalink: /help/tools/
 >
 > [UDOIT Cloud Accessibility Tool - Cidi Labs](https://cidilabs.com/landing/udoit-accessibility-tool/){: target="_blank"}
 
-<iframe src="https://www.youtube.com/embed/gXA4vD7wuws" allowfullscreen></iframe>
+<iframe title="Cidi labs UDOIT Cloud Accessibility Tool" src="https://www.youtube.com/embed/gXA4vD7wuws" allowfullscreen></iframe>
 
 ## Cidi Labs - Design Tools
 
 > "Here's a tutorial video highlighting the many accessibility features in Design Tools that helps course creators improve content accessibility."
 > [Cidi labs Support Center](https://support.cidilabs.com/support/solutions/articles/14000054564-how-does-design-tools-help-with-accessibility-of-content-{: target="_blank"})
 
-<iframe src="https://www.youtube.com/embed/bymc08_O7o4" allowfullscreen></iframe>
+<iframe title="Cidi labs UDOIT Cloud Accessibility Tool" src="https://www.youtube.com/embed/bymc08_O7o4" allowfullscreen></iframe>
 
 ## Accessible Colors
 
