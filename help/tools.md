@@ -8,7 +8,7 @@ permalink: /help/tools/
 
 {:refdef: style="text-align: center;"}
 ![UDOIT logo](../assets/img/udoit_logo.png)
-{: refdef)
+{: refdef}
 
 > "UDOIT Cloud scans your Canvas courses, identifies errors, and provides guidance to improve accessibility with ease."
 >
@@ -16,4 +16,4 @@ permalink: /help/tools/
 
 {:refdef: style="text-align: center;"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gXA4vD7wuws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{: refdef)
+{: refdef}
