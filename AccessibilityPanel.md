@@ -36,14 +36,14 @@ The **Report Generator** is the program we use to automate about 40% of an acces
 
 The course ID is found in the URL after the domain and the word "courses" (example: [https://byu.instructure.com/courses/**1026**](https://byu.instructure.com/courses/1026)).
 
-To generate report, place the course ID (**1335** for the example) in the form field and select "Generate Report". Remember to select a domain for the course chosen. **A report will not be generated unless a domain is selected.**
+To generate report, place the course ID (**1026** for the example) in the form field and select "Generate Report". Remember to select a domain for the course chosen. **A report will not be generated unless a domain is selected.**
 
 
 ## Quick Tips
 
 ### Opening the Report directory in your folder viewer
 
-The Report folder is in a sub folder of the main `AccessibilityTools` folder, specifically `.../AccessibilityTools/ReportGenerators-master/Reports`. A quick way to open this folder is to click on the `Report List` heading above the reports on the Accessibility Panel's user interface.
+The Report folder is in a sub folder of the main `A11y` folder, specifically `C:\Users\*******\Desktop\A11y\Reports`. A quick way to open this folder is to click on the `Report List` heading above the reports on the Accessibility Panel's user interface.
 
 ## Canvas API Token
 
