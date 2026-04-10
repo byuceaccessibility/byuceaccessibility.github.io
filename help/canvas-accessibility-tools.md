@@ -17,11 +17,11 @@ This guide provides the essential tools and links for evaluating and improving d
 ---
 
 ## Evaluation & Simulation Tools
+* [**WebAIM Contrast Checker**](https://webaim.org/resources/contrastchecker) – Web-based tool to check color contrast ratios.
+* [**Accessible Colors**](https://accessible-colors.com/) – Finds the closest accessible color combination when a contrast check fails.
 * [**WAVE (Web Accessibility Evaluation Tool)**](https://wave.webaim.org/extension/) – Identifies accessibility errors visually on the page.
 * [**Stark Accessibility Checker**](https://chrome.google.com/webstore/detail/stark/fkfaapnmfippddbeemjjbclenphooipm) – Contrast checker and vision simulator for 9 different conditions.
 * [**Silktide Disability Simulator**](https://chrome.google.com/webstore/detail/silktide-website-accessib/okcpiimdfkpkjcbihbmhppldhiebhhaf) – Simulates dyslexia, cataracts, and various sight impairments.
-* [**WebAIM Contrast Checker**](https://webaim.org/resources/contrastchecker) – Web-based tool to check color contrast ratios.
-* [**Accessible Colors**](https://accessible-colors.com/) – Finds the closest accessible color combination when a contrast check fails.
 
 ---
 
