@@ -10,7 +10,7 @@ This guide provides the essential tools and links for evaluating and improving d
 
 ---
 
-## 🛠️ Essential Browsers
+## Essential Browsers
 * [**Google Chrome**](https://www.google.com/chrome/) – The primary environment for accessibility testing and extension support.
 * [**Mozilla Firefox**](https://www.mozilla.org/en-US/firefox/new) – Essential for cross-browser accessibility verification.
 
@@ -35,9 +35,9 @@ For frequent reviews, use **Tampermonkey** to run a suite of "Auto-A11y" tools o
 4.  **Install the main Script:** [AutoA11yTools Userscript](https://github.com/WyWyGuy/tampermonkey-auto-a11y-tools-script/raw/refs/heads/main/AutoA11yTools.user.js).
 5.  **Install extra scripts:** Other scripts can be found in [Wyatt's GitHub Repository](https://github.com/WyWyGuy/tampermonkey-a11y-tools). Just select the file you want to install, then click the "Raw" button near the upper-right 
 
-## 🎧 Screen Readers & Reading Aids
+## Screen Readers & Reading Aids
 * [**NVDA (Windows)**](https://www.nvaccess.org/download) – A free, high-performance screen reader.
 
-## 📄 Document & Learning Resources
+## Document & Learning Resources
 * [**PAC (PDF Accessibility Checker)**](https://pac.pdf-accessibility.org/en) – The global standard for validating PDF accessibility.
 
