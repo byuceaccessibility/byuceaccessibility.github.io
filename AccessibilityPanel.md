@@ -10,7 +10,7 @@ permalink: /AccessibilityPanel/
 
 # BYU CE Accessibility Panel
 
-The **Report Generator** is the program we use to automate about 40% of an accessibility audit. After being given correct filepaths and canvas API tokens, this program has logic to scan HTML for many possible accessibility issues we often find in courses. 
+The **A11y Panel** is the program we use to automate about 40% of an accessibility audit. After being given correct filepaths and canvas API tokens, this program has logic to scan HTML for many possible accessibility issues we often find in courses. 
 
 [![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-Visal%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode)](https://open.vscode.dev/byuceaccessibility/AccessibilityPanel)
 
@@ -45,6 +45,10 @@ To generate report, place the course ID (**1026** for the example) in the form f
 
 The Report folder is in a sub folder of the main `A11y` folder, specifically `C:\Users\*******\Desktop\A11y\Reports`. A quick way to open this folder is to click on the `Report List` heading above the reports on the Accessibility Panel's user interface.
 
+### Help Filling out the Panel fields
+
+All of the fields in the panel's interface contain informational tooltips to aid in the correct filling out of the fields. There is a small (i) icon that, when clicked, will show the corresponding tooltip for that field.
+
 ### Prototype Reviews
 {:refdef: style="text-align: center;"}
 ![Accessibility Panel User Interface](assets/img/PrototypePanelGUI.png)
@@ -69,12 +73,6 @@ Before you can create any reports for a canvas course you need an access token.
 5.	Set an expiration date or leave it blank for no expiration. Name it whatever you want.
 6.	Copy paste generated token into the correct field in the options tab of panel.
 7.	If you lose it the token you cannot get it back. Just delete it and create a new one.
-
-# Report Generator
-
-## Introduction
-
-The **Report Generator** is the program we use to automate about 40% of an accessibility audit. After being given correct filepaths and canvas API tokens, this program has logic to scan HTML for many possible accessibility issues we often find in courses. This markdown will give a description of each file used in the process, pseudo code for each file, as well as pseudo code for the whole report generation.
 
 ## Review Process
 
