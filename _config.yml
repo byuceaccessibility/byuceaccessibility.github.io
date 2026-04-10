@@ -36,7 +36,6 @@ plugins:
 
 # Navigation
 navbar-links:
-  About: "/about/"
   Accessibility:
     - Color: "/accessibility/color/"
   Accessibility Panel: "/AccessibilityPanel/"
