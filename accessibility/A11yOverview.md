@@ -30,8 +30,6 @@ But while web accessibility is helpful for most users, for some it’s a need. W
 
 [**Video: Intro To Course Accessibility**](https://byu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a1001d9e-507d-4fc2-9351-b35d0106420b)
 
-*Transcript Forthcoming*
-
 ---
 
 ### **The One**
@@ -53,12 +51,34 @@ Then watch the following videos, which share a variety of perspectives from peop
 #### Web Accessibility Perspectives
 [Watch on YouTube](https://www.youtube.com/watch?v=3f31oufqFSM)
 
-*Transcript Forthcoming*
-
 #### Understanding the Diversity of Users
 [Watch on YouTube](https://www.youtube.com/watch?v=LdVlbO7_hz8)
 
-*Transcript Forthcoming*
+---
+
+## Common Accessibility Errors & Solutions
+
+Based on our review panel, we look for several key categories of errors to ensure digital content is perceivable and operable for everyone.
+
+### 1. Image & Media Errors (Perceivability)
+* **Non-descriptive Alt Tags:** Images must have appropriate, equivalent alternative text that describes the image's function or content.
+* **Decorative Images:** Images that do not convey content should have an empty alt attribute (`alt=""`) so screen readers can skip them.
+* **Transcript/Caption Issues:** Video and audio require text transcripts and closed captions to be accessible to users with auditory impairments.
+* **Broken Images:** All images must load correctly; a broken image link provides zero information to any user.
+
+### 2. Color & Contrast
+* **Contrast Ratios:** Text must maintain a ratio of at least **4.5:1** (or **3:1** for large text). Low contrast makes content unreadable for users with low vision.
+* **Conveying Content:** Color should never be the *only* method of conveying information or distinguishing visual elements (e.g., "required fields are in red").
+
+### 3. Navigation & Keyboard Control
+* **Focus Issues:** It must be visually apparent which element has the "keyboard focus." If focus is lost or the order is illogical, keyboard-only users cannot navigate.
+* **Page/Element Not Navigable:** Users must be able to reach all interactive elements using only a keyboard. "Keyboard traps" (where a user gets stuck in an element) must be avoided.
+
+### 4. Structure & Semantics
+* **Heading Hierarchy:** Headings must be structured in a logical, nested order (H1 > H2 > H3).
+* **Non-Descriptive Links:** Link text must be descriptive. Avoid "Click Here"; use labels that describe the destination, like "View Semester Schedule."
+* **Table Issues:** Tables should be used for tabular data, not layout. They must include proper headers and avoid complex, merged, or "stretched" cells that confuse screen readers.
+* **Language Tags:** The primary language of the page (and any language changes within the page) must be programmatically identified.
 
 ---
 
