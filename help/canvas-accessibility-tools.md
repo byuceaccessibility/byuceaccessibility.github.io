@@ -33,7 +33,7 @@ For frequent reviews, use **Tampermonkey** to run a suite of "Auto-A11y" tools o
 2.  **Enable Developer Mode:** In Chrome Extension settings, toggle **Developer Mode** to **ON**.
 3.  **Allow User Scripts:** In Tampermonkey settings, ensure **Allow User Scripts** is **ON**.
 4.  **Install the main Script:** [AutoA11yTools Userscript](https://github.com/WyWyGuy/tampermonkey-auto-a11y-tools-script/raw/refs/heads/main/AutoA11yTools.user.js).
-5.  **Install extra scripts:** Other scripts can be found in Wyatt's GitHub RepositoryLinks to an external site. Just select the file you want to install, then click the "Raw" button near the upper-right 
+5.  **Install extra scripts:** Other scripts can be found in [Wyatt's GitHub Repository](https://github.com/WyWyGuy/tampermonkey-a11y-tools). Just select the file you want to install, then click the "Raw" button near the upper-right 
 
 ## 🎧 Screen Readers & Reading Aids
 * [**NVDA (Windows)**](https://www.nvaccess.org/download) – A free, high-performance screen reader.
