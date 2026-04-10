@@ -41,6 +41,7 @@ To generate report, place the course ID (**1026** for the example) in the form f
 
 ## Quick Tips
 
+
 ### Opening the Report directory in your folder viewer
 
 The Report folder is in a sub folder of the main `A11y` folder, specifically `C:\Users\*******\Desktop\A11y\Reports`. A quick way to open this folder is to click on the `Report List` heading above the reports on the Accessibility Panel's user interface.
