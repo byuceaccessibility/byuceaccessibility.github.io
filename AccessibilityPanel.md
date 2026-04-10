@@ -5,7 +5,7 @@ permalink: /AccessibilityPanel/
 ---
 
 {:refdef: style="text-align: center;"}
-![Accessibility Panel User Interface](assets/img/GUI.png)
+![Accessibility Panel User Interface](assets/img/NormalPanelGUI.png)
 {: refdef}
 
 # BYU CE Accessibility Panel
@@ -44,6 +44,13 @@ To generate report, place the course ID (**1026** for the example) in the form f
 ### Opening the Report directory in your folder viewer
 
 The Report folder is in a sub folder of the main `A11y` folder, specifically `C:\Users\*******\Desktop\A11y\Reports`. A quick way to open this folder is to click on the `Report List` heading above the reports on the Accessibility Panel's user interface.
+
+### Prototype Reviews
+{:refdef: style="text-align: center;"}
+![Accessibility Panel User Interface](assets/img/PrototypePanelGUI.png)
+{: refdef}
+
+The Prototype Review has an extra field to specify which of the modules on the course are to be reviewed. Format the modules in one of the following ways: "All" to review all modules, 1-2 for modules one and two, or 2, 5-7 for module 2 and modules 5 through 7. Remember to use the module counter tool or to corrctly manually calculate the module numbers, given that there is often a Getting Started Module that is technically module 1, even if a later module is titled Module 1.
 
 ## Canvas API Token
 
