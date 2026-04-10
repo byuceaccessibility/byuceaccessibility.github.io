@@ -16,7 +16,7 @@ This guide provides the essential tools and links for evaluating and improving d
 
 ---
 
-## 🔍 Evaluation & Simulation Tools
+## Evaluation & Simulation Tools
 * [**WAVE (Web Accessibility Evaluation Tool)**](https://wave.webaim.org/extension/) – Identifies accessibility errors visually on the page.
 * [**Stark Accessibility Checker**](https://chrome.google.com/webstore/detail/stark/fkfaapnmfippddbeemjjbclenphooipm) – Contrast checker and vision simulator for 9 different conditions.
 * [**Silktide Disability Simulator**](https://chrome.google.com/webstore/detail/silktide-website-accessib/okcpiimdfkpkjcbihbmhppldhiebhhaf) – Simulates dyslexia, cataracts, and various sight impairments.
@@ -25,7 +25,7 @@ This guide provides the essential tools and links for evaluating and improving d
 
 ---
 
-## 🚀 Advanced: Automated Scripting (Tampermonkey)
+## Advanced: Automated Scripting (Tampermonkey)
 For frequent reviews, use **Tampermonkey** to run a suite of "Auto-A11y" tools on every website automatically.
 
 ### Installation Steps
@@ -33,18 +33,11 @@ For frequent reviews, use **Tampermonkey** to run a suite of "Auto-A11y" tools o
 2.  **Enable Developer Mode:** In Chrome Extension settings, toggle **Developer Mode** to **ON**.
 3.  **Allow User Scripts:** In Tampermonkey settings, ensure **Allow User Scripts** is **ON**.
 4.  **Install the main Script:** [AutoA11yTools Userscript](https://github.com/WyWyGuy/tampermonkey-auto-a11y-tools-script/raw/refs/heads/main/AutoA11yTools.user.js).
-5.  **Install extra scripts:** Other scripts can be found in Wyatt's GitHub RepositoryLinks to an external site. Just select the file you want to install, then click the "Raw" button near the upper-right corner of the code to install it.
-
----
+5.  **Install extra scripts:** Other scripts can be found in Wyatt's GitHub RepositoryLinks to an external site. Just select the file you want to install, then click the "Raw" button near the upper-right 
 
 ## 🎧 Screen Readers & Reading Aids
 * [**NVDA (Windows)**](https://www.nvaccess.org/download) – A free, high-performance screen reader.
-* [**VoiceOver (Mac/iOS)**](https://www.apple.com/accessibility/vision/) – Built-in screen reader for all Apple devices.
-* [**Speechify**](https://speechify.com/) – Text-to-speech extension to aid users with dyslexia or ADHD.
-
----
 
 ## 📄 Document & Learning Resources
 * [**PAC (PDF Accessibility Checker)**](https://pac.pdf-accessibility.org/en) – The global standard for validating PDF accessibility.
-* [**A11y Project Checklist**](https://www.a11yproject.com/checklist/) – A beginner-friendly web accessibility checklist.
-* [**W3C: Stories of Web Users**](https://www.w3.org/WAI/people-use-web/user-stories/) – Perspectives on how people with disabilities navigate the web.
+
