@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Accessibility Overview
-permalink: /accessibility/color/
+permalink: /accessibility/a11yoverview/
 ---
 
 Put content here.
