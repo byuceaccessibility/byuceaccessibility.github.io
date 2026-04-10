@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Color
+title: Accessibility Overview
 permalink: /accessibility/color/
 ---
 
