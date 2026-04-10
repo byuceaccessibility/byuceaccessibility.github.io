@@ -11,6 +11,9 @@ cover-img: "assets/img/computer.jpg"
 
 # Helpful Links
 
+[Accessibility Overview](A11yOverview.md)
+:   Overview of our Accessibility goals.
+
 [Accessibility Panel](AccessibilityPanel.md)
 :   How to use the Accessibility Panel.
 
