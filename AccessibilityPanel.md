@@ -10,6 +10,8 @@ permalink: /AccessibilityPanel/
 
 # BYU CE Accessibility Panel
 
+The **Report Generator** is the program we use to automate about 40% of an accessibility audit. After being given correct filepaths and canvas API tokens, this program has logic to scan HTML for many possible accessibility issues we often find in courses. 
+
 [![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-Visal%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode)](https://open.vscode.dev/byuceaccessibility/AccessibilityPanel)
 
 # How to install the Accessibility Panel on a work computer
