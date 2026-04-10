@@ -52,6 +52,13 @@ The Report folder is in a sub folder of the main `A11y` folder, specifically `C:
 
 The Prototype Review has an extra field to specify which of the modules on the course are to be reviewed. Format the modules in one of the following ways: "All" to review all modules, 1-2 for modules one and two, or 2, 5-7 for module 2 and modules 5 through 7. Remember to use the module counter tool or to corrctly manually calculate the module numbers, given that there is often a Getting Started Module that is technically module 1, even if a later module is titled Module 1.
 
+### Prototype Reviews
+{:refdef: style="text-align: center;"}
+![Accessibility Panel User Interface](assets/img/PageReviewPanelGUI.png)
+{: refdef}
+
+The new Page Quick Review allows you to review a single page. To do so, there is also an extra field. You must still type in the course code, but you must also paste in the entire page url into the Page URL field. Open the page in a browser and just copy over the entire link, (example: [https://byu.instructure.com/courses/1026/pages/welcome-to-the-accessibility-team?module_item_id=2251870](https://byu.instructure.com/courses/1026/pages/welcome-to-the-accessibility-team?module_item_id=2251870))
+
 ## Canvas API Token
 
 Before you can create any reports for a canvas course you need an access token. 
